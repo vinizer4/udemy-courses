@@ -5,8 +5,6 @@ E
 comments/package.json,6\a\6a0b75be611df0b0cdbde8b7052dd8450e5cf340
 H
 client/public/index.html,8\1\818a76598cddfc0ac5e6740251b5b4dc9ff67f2c
-C
-client/src/index.js,7\6\76cbb38a5cef42611c7af13985f39248682f4aa1
 F
 event-bus/package.json,5\4\54a83f931f8a9caab2d6c08a9ab7d8744e3d4e80
 B
@@ -17,22 +15,6 @@ L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
 T
 $.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
-A
-client/src/App.js,f\6\f6b8a135eb07bb80aa582994bcf1a8ccacd783ee
-K
-client/src/CommentCreate.js,8\0\80f5a5a8994caacd6e867f5290b2b806b5201b65
-I
-client/src/CommentList.js,7\c\7cda97dba03c65449b41611800f04cd610ba2d6b
-A
-comments/index.js,8\c\8cb46949ddc82dc84f3459fded4321391dc0ae2b
-C
-moderation/index.js,7\b\7b1ab1aed5ee3812d2808c847ba87dbab2b18905
-H
-client/src/PostCreate.js,7\4\74cda9dd000cfc8f18beb87d3db9246e725066d5
-F
-client/src/PostList.js,2\3\23540f386a888654e1c627d4aa0c1406e4ef2c5d
->
-query/index.js,0\7\07a5ce512aa5552a7175b2615e1f25fc8f716231
 G
 event-bus/.dockerignore,3\7\37e343bdc442f10e7ba753aed5a3d6858dc63bf7
 w
@@ -51,8 +33,6 @@ D
 client/.dockerignore,9\b\9bc953ac6743f3950afddfea67285c838a872fac
 A
 client/.gitignore,e\3\e32ec5c998c4774d8d1bedd59740d14d940c90ec
-A
-client/Dockerfile,8\6\86b9845f28676d6ef06f2f252b8fb6ee4d73815a
 E
 moderation/Dockerfile,0\4\04d3f7fd8ccc1ddf59ca61cb4d5a5b27f265c35f
 @
