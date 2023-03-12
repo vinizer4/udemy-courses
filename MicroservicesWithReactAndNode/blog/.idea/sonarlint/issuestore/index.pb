@@ -41,8 +41,6 @@ M
 infra/k8s/event-bus-depl.yaml,f\f\ff1ad906267895967db34123b2ae951a3cb9207c
 I
 client/src/CommentList.js,7\c\7cda97dba03c65449b41611800f04cd610ba2d6b
-A
-client/Dockerfile,8\6\86b9845f28676d6ef06f2f252b8fb6ee4d73815a
 L
 infra/k8s/comments-depl.yaml,6\0\60a4875364945f3e6f86e33e97fd67e683d2b78e
 I
@@ -69,11 +67,9 @@ H
 client/src/PostCreate.js,7\4\74cda9dd000cfc8f18beb87d3db9246e725066d5
 F
 client/src/PostList.js,2\3\23540f386a888654e1c627d4aa0c1406e4ef2c5d
-A
-client/src/App.js,f\6\f6b8a135eb07bb80aa582994bcf1a8ccacd783ee
-=
-skaffold.yaml,3\f\3fc344cc1310b3ed99722cb29d291aa84c7cf4b0
 K
 client/src/CommentCreate.js,8\0\80f5a5a8994caacd6e867f5290b2b806b5201b65
-C
-client/src/index.js,7\6\76cbb38a5cef42611c7af13985f39248682f4aa1
+A
+client/Dockerfile,8\6\86b9845f28676d6ef06f2f252b8fb6ee4d73815a
+=
+skaffold.yaml,3\f\3fc344cc1310b3ed99722cb29d291aa84c7cf4b0
